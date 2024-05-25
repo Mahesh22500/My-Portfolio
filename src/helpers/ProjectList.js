@@ -11,7 +11,7 @@ export const ProjectList = [
     image:
       "https://c8.alamy.com/comp/2DRPKEH/creative-idea-digital-portfolio-online-landing-page-cartoon-modern-trendy-website-interface-for-art-studio-designer-agency-with-freelancer-artist-character-and-artwork-cloud-vector-illustration-2DRPKEH.jpg",
     skills: "ReactJS",
-    gitHubUrl: "https://github.com/Mahesh22500/My-Portfolio/tree/main/src"
+    gitHubUrl: "https://personal-portfolio-j2ir.vercel.app/"
   },
   {
     name: "Social Network",

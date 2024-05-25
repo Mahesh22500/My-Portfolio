@@ -52,7 +52,23 @@ function Experience() {
           </h4>
           <p>Developed the manageApps page for the Marketplace and implemented all the functionalities.</p>
         </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          date="2024 - 2024 "
+          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          icon={<WorkIcon />}
+        >
+          <h3 className="vertical-timeline-element-title">
+            Software Engineer Atlassian - Atlassian
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">
+            Bangalore
+          </h4>
+          <p> Worked in the Jira Cloud Platform in C2C Migration Team
+– Created Rest Apis for data exchange between C2C Migration Services
+– Created splunk dashboards to monitor C2C Migrations.</p>
 
+        </VerticalTimelineElement>
        
       </VerticalTimeline>
     </div>
